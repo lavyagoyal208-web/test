@@ -1,0 +1,30 @@
+
+Retail Sales Analysis
+1. Overall Sales
+Total Sales: ₹1,90,000
+Average Sale: ₹19,000
+Total Quantity Sold: 23 units
+2. Sales by Category
+Electronics – ₹1,20,000
+Furniture – ₹46,000
+Clothing – ₹24,000
+
+Highest-selling category: Electronics
+
+3. Top 5 Customers
+Aarav – ₹63,000
+Kabir – ₹46,000
+Meera – ₹28,000
+Arjun – ₹25,000
+Riya – ₹18,000
+4. Orders and Sales Using JOIN
+Customer	Orders	Total Sales
+Aarav	2	₹63,000
+Riya	2	₹18,000
+Kabir	2	₹46,000
+Meera	2	₹28,000
+Arjun	1	₹25,000
+Simran	1	₹10,000
+Conclusion
+
+Electronics had the highest sales, while Aarav was the highest-spending customer.
