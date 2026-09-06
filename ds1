@@ -1,0 +1,47 @@
+Social Media Performance Analysis
+Aim
+
+To analyze social media performance using shares, engagement rate, impressions, and likes.
+
+1. Post with Highest Shares
+
+Post 9, which was a YouTube Short Video, received the highest number of shares.
+
+Total Shares: 420
+
+2. Engagement Rate
+
+A new column called “Engagement Rate” was created.
+
+The formula used was:
+
+Engagement Rate = (Likes + Comments + Shares) ÷ Impressions
+
+The engagement rates were:
+
+Post	Engagement Rate
+1	15.14%
+2	14.23%
+3	11.47%
+4	10.51%
+5	8.51%
+6	6.75%
+7	11.98%
+8	9.04%
+9	14.76%
+10	12.02%
+11	10.95%
+12	10.61%
+3. Pivot Table / Platform Summary
+Platform	Total Impressions	Total Likes
+Instagram	29,500	3,250
+Facebook	25,600	1,650
+LinkedIn	10,900	850
+YouTube	28,600	2,890
+X (Twitter)	13,500	1,000
+
+A bar chart can be created from this Pivot Table to compare total impressions and total likes for each platform.
+
+Result
+
+The analysis shows that Post 9 (YouTube Short Video) had the highest number of shares with 420 shares. Engagement rate was calculated for every post, and the Pivot Table was used to compare the total impressions and likes of each social media platform.
